@@ -1,19 +1,19 @@
 # front-end
 
-## Project setup
+## Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar
 ```
-npm run serve
+npm run dev
+npm run tw:build
 ```
 
-### Compiles and minifies for production
+### Compilar para produção
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 
