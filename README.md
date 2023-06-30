@@ -1,4 +1,4 @@
-# front-end
+# Front End - Smart Home Control - Vue.js
 
 ## Setup do projeto
 ```
